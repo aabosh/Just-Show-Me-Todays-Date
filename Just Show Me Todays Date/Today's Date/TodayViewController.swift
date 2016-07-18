@@ -13,7 +13,7 @@ class TodayViewController: UIViewController, NCWidgetProviding {
         
     @IBOutlet weak var dateLabel: UILabel!
     
-    let date = DateFormatter.localizedString(from: NSDate() as Date, dateStyle: .fullStyle, timeStyle: .noStyle)
+    let date = DateFormatter.localizedString(from: NSDate() as Date, dateStyle: .full, timeStyle: .none)
     
     override func viewDidLoad() {
         super.viewDidLoad()
