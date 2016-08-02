@@ -1,7 +1,10 @@
 # Just Show Me Today's Date
-a Today widget that displays the current day—solving an annoyance in the iOS 10 beta.
+a Today widget that displays the current day—solving an annoyance in iOS 10 beta 1 - 3.
 
 ![Screenshot](https://i.imgur.com/WGP6nfZ.png)
+
+# Now Useless
+As of iOS 10 beta 4, today's date can now be found in Notification Center.
 
 # Prerequisites
 * iOS 10
